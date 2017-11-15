@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8793ff34ce116735e1d597a11f141a95f72dbc6f">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cfe58f105bd4126aad7b06ac8c3334abf5f02bca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/e9a7d13757da36cf5b921e8e9ccc90e21ada78f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd057bc43f1c1e2f13566f5fe800d077b08b61b9">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74d1a345f148bd8f2acb1035c755e8a6fecd18da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/2c5b29e29b160a8c54cdee6032f91c879d503a95/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f9e3d6d247baf5efa5db6d756bdf94cad1f2742/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/57b18a2b571fc4cdcb84eb0f4ee7605229f7ec78/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa923c0910e756ba269f51dd5d68fc8740ee65e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/93d8a5fc09ee97ee646416c681fd2cdc6f943b1e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b34276d1fea450411cedd49d3146b04838f9dd6e">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c5e5fb7c6891753e07e841a3385bf94020b1da4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/58baa3c1663f0273aa57edf518b9c8515caa451a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="81978250f6de6ffdf2ea4632e7955613103e984c">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91e23f7c14e37c6bdd7ccd14ec8898aa34bfaf01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/dd07ec68e9fdbe12de1b24f0ff897622b215d9e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d068a922134f5f9b9f98bfc609145e09af03c2a4">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0dd1d5d0ff58c2de228a475483366142f22b0bcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/a6b5d43c7ddc878197f691859699dbcafae5832b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec1fb3fb721731f3e072786331fe1969b7c2b7fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/c9ee43098b61e4c5d60e9cd0412c34234cdfc9f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1501e9ba987089b385937b2d3005618cb56a258d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/0ee2beae21c0e7f25532090db4717eeb74bf4efb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0541c70fe7701cf620e5131212114fb0d30ba98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/3b396f8ea47d8fb319c7fba5df6df6f43f980979/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8ac6008b2efae4a47911eab9a8cbd284dfa52fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/bb7a57a9ed70dd7b7f50ddedfbec9bef9dd121e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84a9797d6c3dd732d00f0433edc17778573cea17">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a66550ee40ab5df23ed8dd1376d21df6a2a777af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/6fcfa98a8e66a36a96fd37d7d8627650fd677858/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c7e0d83e333a25f969bce43db78150c63e7aa0c">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8913e9f4845f5987dc2bef2fa71f81a5b354e509/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/3532f1315b1b65929268cf66065f613998128a55/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="553e58050e91d4295a2f1d1f80ea63b41ee5bc4b">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5db9175b3e93df1e1b6e34e4ec30eff50a6d513f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/c65832286ae562e6f7d8432f5422ded968179012/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_801864a7230088198f58d7894d2b7e643d4b017e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/4f9d682e51e882b97f05563e55894a3e76286fab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_00d597d8b17dc096770ee156603a890945284cf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_e60acbf3be903f3281216f23567f2139a2f3d172/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/e6052504a3e14a1abfde5c80f9e4d54cfe06538d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ab2c6111c9e733c965725976ca2a2e57670000f9">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c8889674b75db9cf4725005b07aa624f4b62b5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e7d340bb361aef8ed31bdd8fe74a745b22348288/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/252bb8da33b8d771e7f4d7eb22432ec200632853/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df686901fc88f700b5e5aec4e226e37f6a09e9ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/2d1ced60a6576a614081da09e463b26df444c507/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1968b9614bc6851e99db64e356cf60063503e5d">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f2edfe93b355bc5a666b0f5d44a4871f8bc929e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/a057585bab90e4628ad979bc8c880df19d1ec7a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf481b2af4d8f89935baf75972976b5681533176">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1984c1f111afc31fcb526b981947e77a83a36c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/d13bf311234e145ec1b049e5e531bad1f8ad9c05/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b323189d6c1d85135fef8cb60ea2c355aef62ad2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/9538ee57816b4aa9a1a94fae3252d7f5083539a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b22f93ef56e5b62f7fd5daebb9d7192cc3d321e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/a72397b5846478d098e856f3b0e1d03327a8198f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aec5337725e7a3171f7f40a50d9837745693d429">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed1540e8efafc262b3f8e159423e36c9d002b3de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-2.0.1_e0ce98b10f80e127b2c3dd47547779b8b429beac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/bba9739c2516756378b08006bf550ca60670fe3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39bd8497f5808dd1ea4a174527a599f49bd6376e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-cli-1.2_b2bd1d81829402a19797a656cbb9246cf9762a70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/19e788bc8f6f31de61eacdb794bb28158ba37654/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4e5223997fa6032b326167ee4586ae0b3498647">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1390f2fed07f311827a6049d6571d8e21a15e241/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/a453975eea790b7fc0bdf667fd02f4508ad1bbec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f2f16fde0c662116f735951b4e830afba373cc6">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e6f2bf5669147104a75ebab29d0751f83831b2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/b396713260820475de64480900a69e6e9856c291/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02b8cfadbc27ee8ba6f62f32e07bf36d589cc0c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/ab560b1d94e3b2bbedb6ab215a821bf788f1a6c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c7f39dbdfb6c06b0000334ba22d60876b0ed6c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/46fcb2d577e98f62579c626d81b685ac29b5073a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79100391e3b32d7323a04b7b8a9c8ad0adbae583">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4b576cd9752e5c4924b353faf0f6341197b8444/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/f08e76331a6814c2191697f851509f18a3e618a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27ea933e57fd39861724f05c85a700314a1cdc5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/17aa3d6db8297c47caa883d03f9b0d109e2621e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78a04aee2dce1270e0c98af4db489b38817a43cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/f3e6dc37cc129bc2ef4863ee138e38e8f0f64d35/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9397ccfa02557d16588e965ee612c11047ca2272/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/d67cf68bd246ad73da7cb72670c2075afdf5f321/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="32f45bd44a3e7efc235bbfed120029290f5d674a">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27918ad74b79b19bf7126b09525e569101ea8144/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/d7cd9cbdba8418fbfc69bbacfecfaf7023271639/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_618a97252624370c9fc6fbc6c7e881914283a703/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/0a28018c86535961db986246916705c43a0fa8d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6331d05d20f71daa4429ca2c5806a0d5ca1f0997/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/46aaf4b0bbce865e1749c7d3aa1f94b1a998574e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cad5ae5774f39b7017a3ae3d103e7b78506397b0">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42fa80f864a0c52757ba8d9e9935686b96ba7035/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/7b598d3f25e92e94e00f60dc5d6cbc8db02f2240/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b41f7538ea1af0aad76cb3253b87b13744788c2">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62fa6abdebafecad11e78012a7165ce446ff0c6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/18fd6d074e2b44b74159e83a5b99aa70aed2d1e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a8769f26f17589590c5a9726afe32151b6b4d97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/6d0ab9568f00e94da436ffcb5f335dab2319720f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2a35ebae535c2357ca7f7f792e30a8cb7d02939/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/03adc56471d2ec3b4ec7cde5bdd8d93cef1a6e36/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77cf7a936179fab4299f2f5edefb574e25a7d857/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/c0bd723a50f4b535ba4ad02c15c822fe5d63f16d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07b19f4d7fe24d16c7ea964628ad907b54b1971d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/d26045373816b1e5059062b92068c33122057992/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="60a8cdd1ad9b8d22a5d44bc8e479257ced2bf075">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_057488be056f323fc7897685acb2549856874131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/3f1eaf7b71e34197d19d639005fe33d9c0a61150/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8181f9c0bd89add64512921613c4137f2730440/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/952e576612d48cd95138b605e0e1e9448d72cf09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a00607e7cf55392edd324bc8fa3827ded7e9859b">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7609c921310e2e950697ecb5fba5126c58da8cbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/47e767648991dab25ad5ab18bfe85f82a35c6ab0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57d88cdd41b08ee37967872d0bc08b2b4353babf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/2684231ad23380a03dbc4596714d69bcf7401677/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2c8de31fb7efe38d5dad7f2b0934b9b216b7baa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/98c2c247499e191748cafc82a7f97b28667946cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f198edf3bc570922ad0dd77d57513d917438588/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/678f2c624ae5ed82df8a44d4ee52cfc0ecb501b2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3654c7b4aecc0e95c62a3c65e9e5ae03934dbfcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/88cf8b85e8e53e80cc2e43c15d99a4eeffe9086d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17f97b4b2f5f4013779f9e471ac5b4e96dd2eabd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/bf20123e003623fb26faee3ffe5768b924104581/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_84fbadd05dd00052c13e16a81c160acf8c9fbdfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/Desktop/SmartPark_StableVersion/app/libs/jsch-0.1.52.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b2c608943b8b46078144d261fa4ff7d9e77c2eae">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/2/jsch-0.1.52_61f52f9f13e52558621c70738b0dff77e97eaf28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/90a12b60feadebc258880052ca49879f88f8bb85/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b3653d40db267f5ad95d89264dd0c2406261dd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/f193a1e02af0f71491c25bede047e359221702ad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c2cc65c93228059738d984eab3e36e5c46ad407/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/fca7408f36956817c0b8069633af3b290b9a3c38/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="536228b2496030d983d01856aa56b4d71b57d0db">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec2304e14b13e9103fb768a016b02159e16a68c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/143e607d6f3e3e5b73593055dc9cf0d67b81318c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb64592571c9c29461dbe008e92cf9f68f85116e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/3a7eb215644430681efa4cb0a2eb3e501685689a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e0ec020f96bf367dfd209aedd5941fe885d19d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/cf00f3b0554f7297389681f088e1907671eff161/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="079c035b2a1820bf455e0ae7fd484dec575e2182">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d54523a139e2c7f7ce8f6e9dd8397532d039ad11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/905d0589b0b59eed131353d8188fad59096d36d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f9aa417cd6d4373c413f6e60865133bcfdb7096b">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_424caeeca2991fbb3d3203f320bce1727bda87bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/851821080c52501e9d40d4cf68427839583bd918/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17f1aa349db098036cd27936ec1bebb2a133e24b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/57e47f9e214d1791ab3edfb2b21c62c2ae741cbe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79c3d4a8ca3c04c5fd5a4a72d43a29fe6d3667b4">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3aae022c9570c3009fce0bbb198a6a7f326162df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.2_ea4bc5bbb221c6e99f2794a7f5e3ac39e09820d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/d2542692f71070035f4f914eceb7e81c7fee7cd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba6d53176502b2672a5d7d25a0000d1a6e701c">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efed88158c85ba56dfda98ba82d3f31126267a1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_7fae467f54521a1f1d7ae5a275a433c49d9aa56b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/874088e5aa26b80b316a95fac90c8fa8e210f654/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a020d34fefd5777c8d257785110445fccc80749/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/bd01fcf6044ec9b8b2153528bd629d25a6edc8c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a4086144eca983af90c9f2348d13a3c8057512f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/b4c4442e984250b40b90730ebe3292fa026175a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ac8362554403dff72eed637b9869af8af663b43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eveyw/.android/build-cache/2c049c8d975e2056e93903e74777e8435f5087cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="/Users/eveyw/Desktop/SmartPark_StableVersion/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a18f6089872ee162821c080673cc78ed01fbe870/classes.dex" />
+    </item>
+
+</items>
